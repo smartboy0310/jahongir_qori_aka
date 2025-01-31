@@ -1,0 +1,35 @@
+const {Composer} = require('telegraf')
+const suras = require('../data/surasKeyBoard');
+const composer = new Composer()
+
+composer.hears("📜 Qur'on tilovati (Ta'lim uchun)", async (ctx) => {
+	await ctx.replyWithHTML(
+		`
+			<b> Suralardan birini tanlang... </b>
+		`,
+		{
+			reply_markup: JSON.stringify({
+				keyboard: suras.uz_suras,
+				resize_keyboard: true,
+			}),
+		},
+	);
+});
+
+composer.hears('📜 Қуръон тиловати (Таълим учун)', async (ctx) => {
+	await ctx.replyWithHTML(
+		`
+			<b> Суралардан бирини танланг... </b>
+		`,
+		{
+			reply_markup: JSON.stringify({
+				keyboard: suras.oz_suras,
+				resize_keyboard: true,
+			}),
+		},
+	);
+});
+
+
+
+module.exports = composer
