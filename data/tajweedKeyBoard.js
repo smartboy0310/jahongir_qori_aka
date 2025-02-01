@@ -1,7 +1,7 @@
 const { text } = require("express");
 
 module.exports = {
-    uz_alif_yo: [
+    uz_tajweed: [
         [
             {
                 text: "📌 Kirish"
@@ -139,7 +139,7 @@ module.exports = {
             }
         ]
     ],
-    oz_alif_yo: [
+    oz_tajweed: [
         [
             {
                 text: "📌 Кириш"
