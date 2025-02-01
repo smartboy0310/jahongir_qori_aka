@@ -3,536 +3,446 @@ module.exports = {
     uz_alif_yo: [
         {
             text: "1. Arab harflar",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/2",
-            url_video: ""
+            title: "✅ 1-dars: Arab harflarining ismlari",
+            url_video: "https://t.me/jahongirmuqriy_suralar/263"
         },
         {
             text: "2. To'g'ri talaffuz qilish",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/3",
-            url_video: ""
+            title: "✅ 2-dars: Tovushni toʻgʻri talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/264"
         },
         {
             text: "3. Ro harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/4",
-            url_video: ""
+            title: "✅ 3-dars: Ro harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/265"
         },
         {
             text: "4. Za harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/5",
-            url_video: ""
+            title: "✅ 4-dars: Za harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/266"
         },
         {
             text: "5. Mim harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/6",
-            url_video: ""
+            title: "✅ 5-dars: Mim harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/267"
         },
         {
             text: "6. Nun harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/7",
-            url_video: ""
+            title: "✅ 6-dars: Nun harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/268"
         },
         {
             text: "7. Ta harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/8",
-            url_video: ""
+            title: "✅ 7-dars: Ta harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/269"
         },
         {
             text: "8. Yo harf",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/9",
-            url_video: ""
+            title: "✅ 8-dars: Yo harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/270"
         },
         {
             text: "9. Ba harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/10",
-            url_video: "",
-            url_video: ""
+            title: "✅ 9-dars: Ba harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/271"
         },
         {
             text: "10. Kaf harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/11",
-            url_video: ""
+            title: "✅ 10-dars: Kaf harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/272"
         },
         {
             text: "11. Lam harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/12",
-            url_video: ""
+            title: "✅ 11-dars: Lam harfini talaffuz qilish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/273"
         },
         {
             text: "12. Vav harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/13",
-            url_video: ""
+            title: "✅ 12-dars: Vav harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/274"
         },
         {
             text: "13. Ha harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/14",
-            url_video: ""
+            title: "✅ 13-dars: Ha harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/275"
         },
         {
             text: "14. Fa harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/15",
-            url_video: ""
+            title: "✅ 14-dars: Fa harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/276"
         },
         {
             text: "15. Qof harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/16",
-            url_video: ""
+            title: "✅ 15-dars: Qof harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/277"
         },
         {
             text: "16. Shin harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/17",
-            url_video: ""
+            title: "✅ 16-dars: Shin harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/278"
         },
         {
             text: "17. Sin harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/18",
-            url_video: ""
+            title: "✅ 17-dars: Sin harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/279"
         },
         {
             text: "18. Sa harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/19",
-            url_video: ""
+            title: "✅ 18-dars: Sa harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/280"
         },
         {
             text: "19. Sod harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/20",
-            url_video: ""
+            title: "✅ 19-dars: Sod harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/281"
         },
         {
             text: "20. To harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/21",
-            url_video: ""
+            title: "✅ 20-dars: To harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/282"
         },
         {
             text: "21. Jim harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/22",
-            url_video: ""
+            title: "✅ 21-dars: Jim harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/283"
         },
         {
             text: "22. Xo harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/23",
-            url_video: ""
+            title: "✅ 22-dars: Xo harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/284"
         },
         {
             text: "23. Ha harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/24",
-            url_video: ""
+            title: "✅ 23-dars: Ha harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/285"
         },
         {
-            text: "24. Gʻoyn harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/25",
-            url_video: ""
+            text: "24. G'oyn harfi",
+            title: "✅ 24-dars: Gʻoyn harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/286"
         },
         {
-            text: "25. Aʼyn harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/26",
-            url_video: ""
+            text: "25. A'yn harfi",
+            title: "✅ 25-dars: Aʼyn harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/287"
         },
         {
             text: "26. Dal harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/27",
-            url_video: ""
+            title: "✅ 26-dars: Dal harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/288"
         },
         {
             text: "27. Dod harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/28",
-            url_video: ""
+            title: "✅ 27-dars: Dod harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/289"
         },
         {
             text: "28. Zal harfi",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/29",
-            url_video: ""
+            title: "✅ 28-dars: Zal harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/290"
         },
         {
             text: "29. Zo harfii",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/30",
-            url_video: ""
+            title: "✅ 29-dars: Zo harfini talaffuz qilish",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/291"
         },
         {
             text: "30. Madli harflar | 1-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/31",
-            url_video: ""
+            title: "✅ 30-dars: Madli harflar | 1-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/292"
         },
         {
             text: "31. Madli harflar | 2-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/32",
-            url_video: ""
+            title: "✅ 31-dars: Madli harflar | 2-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/293"
         },
         {
             text: "32. Madli harflar | 3-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/33",
-            url_video: ""
+            title: "✅ 32-dars: Madli harflar | 3-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/294"
         },
         {
             text: "33. Madli harflar | 4-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/34",
-            url_video: ""
+            title: "✅ 33-dars: Madli harflar | 4-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/295"
         },
         {
             text: "34. Madli harflar | 5-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/35",
-            url_video: ""
+            title: "✅ 34-dars: Madli harflar | 5-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/296"
         },
         {
             text: "35. Madli harflar | 6-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/36",
-            url_video: ""
+            title: "✅ 35-dars: Madli harflar | 6-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/297"
         },
         {
             text: "36. Madli harflar | 7-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/37",
-            url_video: ""
+            title: "✅ 36-dars: Madli harflar | 7-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/298"
         },
         {
             text: "37. Tashdidli harflar | 1-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/38",
-            url_video: ""
+            title: "✅ 37-dars: Tashdidli harflar | 1-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/299"
         },
         {
             text: "38. Tashdidli harflar | 2-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/39",
-            url_video: ""
+            title: "✅ 38-dars: Tashdidli harflar | 2-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/300"
         },
         {
             text: "39. Tashdidli harflar | 3-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/40",
-            url_video: ""
+            title: "✅ 39-dars: Tashdidli harflar | 3-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/301"
         },
         {
             text: "40. Tashdidli harflar | 4-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/41",
-            url_video: ""
+            title: "✅ 40-dars: Tashdidli harflar | 4-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/302"
         },
         {
             text: "41. Tanvinli harflar | 1-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/42",
-            url_video: ""
+            title: "✅ 41-dars: Tanvinli harflar | 1-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/303"
         },
         {
             text: "42. Tanvinli harflar | 2-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/43",
-            url_video: ""
+            title: "✅ 42-dars: Tanvinli harflar | 2-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/304"
         },
         {
             text: "43. Tanvinli tashdid",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/44",
-            url_video: ""
+            title: "✅ 43-dars: Tanvinli tashdid",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/305"
         },
         {
             text: "44. Alif va hamza | 1-qism",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/45",
-            url_video: ""
+            title: "✅ 44-dars: Alif va hamza | 1-qism",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/306"
         }
     ],
 
     oz_alif_yo: [
         {
             text: "1. Араб ҳарфлар",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/2",
-            url_video: ""
+            title: "✅ 1-дарс: Араб ҳарфларининг исмлари",
+            url_video: "https://t.me/jahongirmuqriy_suralar/263"
         },
         {
             text: "2. Тўғри талаффуз қилиш",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/3",
-            url_video: ""
+            title: "✅ 2-дарс: Товушни тўғри талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/264"
         },
         {
             text: "3. Ро ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/4",
-            url_video: ""
+            title: "✅ 3-дарс: Ро ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/265"
         },
         {
             text: "4. За ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/5",
-            url_video: ""
+            title: "✅ 4-дарс: За ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/266"
         },
         {
             text: "5. Мим ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/6",
-            url_video: ""
+            title: "✅ 5-дарс: Мим ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/267"
         },
         {
             text: "6. Нун ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/7",
-            url_video: ""
+            title: "✅ 6-дарс: Нун ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/268"
         },
         {
             text: "7. Та ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/8",
-            url_video: ""
+            title: "✅ 7-дарс: Та ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/269"
         },
         {
             text: "8. Йо ҳарф",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/9",
-            url_video: ""
+            title: "✅ 8-дарс: Йо ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/270"
         },
         {
             text: "9. Ба ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/10",
-            url_video: "",
-            url_video: ""
+            title: "✅ 9-дарс: Ба ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/271"
         },
         {
             text: "10. Каф ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/11",
-            url_video: ""
+            title: "✅ 10-дарс: Каф ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/272"
         },
         {
             text: "11. Лам ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/12",
-            url_video: ""
+            title: "✅ 11-дарс: Лам ҳарфини талаффуз қилиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/273"
         },
         {
             text: "12. Вав ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/13",
-            url_video: ""
+            title: "✅ 12-дарс: Вав ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/274"
         },
         {
             text: "13. Ҳа ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/14",
-            url_video: ""
+            title: "✅ 13-дарс: Ҳа ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/275"
         },
         {
             text: "14. Фа ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/15",
-            url_video: ""
+            title: "✅ 14-дарс: Фа ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/276"
         },
         {
             text: "15. Қоф ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/16",
-            url_video: ""
+            title: "✅ 15-дарс: Қоф ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/277"
         },
         {
             text: "16. Шин ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/17",
-            url_video: ""
+            title: "✅ 16-дарс: Шин ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/278"
         },
         {
             text: "17. Син ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/18",
-            url_video: ""
+            title: "✅ 17-дарс: Син ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/279"
         },
         {
             text: "18. Са ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/19",
-            url_video: ""
+            title: "✅ 18-дарс: Са ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/280"
         },
         {
             text: "19. Сод ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/20",
-            url_video: ""
+            title: "✅ 19-дарс: Сод ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/281"
         },
         {
             text: "20. То ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/21",
-            url_video: ""
+            title: "✅ 20-дарс: То ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/282"
         },
         {
             text: "21. Жим ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/22",
-            url_video: ""
+            title: "✅ 21-дарс: Жим ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/283"
         },
         {
             text: "22. Хо ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/23",
-            url_video: ""
+            title: "✅ 22-дарс: Хо ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/284"
         },
         {
             text: "23. Ҳа ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/24",
-            url_video: ""
+            title: "✅ 23-дарс: Ҳа ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/285"
         },
         {
             text: "24. Ғойн ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/25",
-            url_video: ""
+            title: "✅ 24-дарс: Ғойн ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/286"
         },
         {
             text: "25. Аъйн ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/26",
-            url_video: ""
+            title: "✅ 25-дарс: Аъйн ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/287"
         },
         {
             text: "26. Дал ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/27",
-            url_video: ""
+            title: "✅ 26-дарс: Дал ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/288"
         },
         {
             text: "27. Дод ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/28",
-            url_video: ""
+            title: "✅ 27-дарс: Дод ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/289"
         },
         {
             text: "28. Зал ҳарфи",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/29",
-            url_video: ""
+            title: "✅ 28-дарс: Зал ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/290"
         },
         {
             text: "29. Зо ҳарфии",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/30",
-            url_video: ""
+            title: "✅ 29-дарс: Зо ҳарфини талаффуз қилиш",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/291"
         },
         {
             text: "30. Мадли ҳарфлар | 1-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/31",
-            url_video: ""
+            title: "✅ 30-дарс: Мадли ҳарфлар | 1-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/292"
         },
         {
             text: "31. Мадли ҳарфлар | 2-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/32",
-            url_video: ""
+            title: "✅ 31-дарс: Мадли ҳарфлар | 2-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/293"
         },
         {
             text: "32. Мадли ҳарфлар | 3-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/33",
-            url_video: ""
+            title: "✅ 32-дарс: Мадли ҳарфлар | 3-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/294"
         },
         {
             text: "33. Мадли ҳарфлар | 4-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/34",
-            url_video: ""
+            title: "✅ 33-дарс: Мадли ҳарфлар | 4-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/295"
         },
         {
             text: "34. Мадли ҳарфлар | 5-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/35",
-            url_video: ""
+            title: "✅ 34-дарс: Мадли ҳарфлар | 5-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/296"
         },
         {
             text: "35. Мадли ҳарфлар | 6-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/36",
-            url_video: ""
+            title: "✅ 35-дарс: Мадли ҳарфлар | 6-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/297"
         },
         {
             text: "36. Мадли ҳарфлар | 7-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/37",
-            url_video: ""
+            title: "✅ 36-дарс: Мадли ҳарфлар | 7-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/298"
         },
         {
             text: "37. Ташдидли ҳарфлар | 1-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/38",
-            url_video: ""
+            title: "✅ 37-дарс: Ташдидли ҳарфлар | 1-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/299"
         },
         {
             text: "38. Ташдидли ҳарфлар | 2-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/39",
-            url_video: ""
+            title: "✅ 38-дарс: Ташдидли ҳарфлар | 2-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/300"
         },
         {
             text: "39. Ташдидли ҳарфлар | 3-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/40",
-            url_video: ""
+            title: "✅ 39-дарс: Ташдидли ҳарфлар | 3-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/301"
         },
         {
             text: "40. Ташдидли ҳарфлар | 4-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/41",
-            url_video: ""
+            title: "✅ 40-дарс: Ташдидли ҳарфлар | 4-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/302"
         },
         {
             text: "41. Танвинли ҳарфлар | 1-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/42",
-            url_video: ""
+            title: "✅ 41-дарс: Танвинли ҳарфлар | 1-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/303"
         },
         {
             text: "42. Танвинли ҳарфлар | 2-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/43",
-            url_video: ""
+            title: "✅ 42-дарс: Танвинли ҳарфлар | 2-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/304"
         },
         {
             text: "43. Танвинли ташдид",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/44",
-            url_video: ""
+            title: "✅ 43-дарс: Танвинли ташдид",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/305"
         },
         {
             text: "44. Алиф ва ҳамза | 1-қисм",
-            title: "",
-            url_audio: "https://t.me/jahongirmuqriy_suralar/45",
-            url_video: ""
+            title: "✅ 44-дарс: Алиф ва ҳамза | 1-қисм",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/306"
         }
     ]
 }
