@@ -29,6 +29,8 @@ bot.use(require('./Composer/suras'))
 bot.use(require('./Composer/checkSuras'))
 bot.use(require('./Composer/checkAlifYo'))
 bot.use(require('./Composer/alifYo'))
+bot.use(require('./Composer/checkTajweed'))
+bot.use(require('./Composer/tajweed'))
 bot.startPolling()
 bot.launch().then(() => {
 	console.log(`bot started on @${bot.options.username}`);

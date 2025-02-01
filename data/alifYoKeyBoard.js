@@ -7,7 +7,7 @@ module.exports = {
                 text: "1. Arab harflar"
             },
             {
-                text: "2. Toʻgʻri talaffuz qilish"
+                text: "2. To'g'ri talaffuz qilish"
             }
 
         ],
@@ -97,12 +97,12 @@ module.exports = {
                 text: "23. Ha harfi"
             },
             {
-                text: "24. Gʻoyn harfi"
+                text: "24. G'oyn harfi"
             }
 
         ], [
             {
-                text: "25. Aʼyn harfi"
+                text: "25. A'yn harfi"
             },
             {
                 text: "26. Dal harfi"
