@@ -25,12 +25,16 @@ bot.use(require('./Composer/start'));
 bot.use(require('./Composer/mainKeyboard'));
 bot.use(require('./Composer/editLang'));
 bot.use(require('./Composer/back'));
+bot.use(require('./Composer/quran'))
 bot.use(require('./Composer/suras'))
 bot.use(require('./Composer/checkSuras'))
 bot.use(require('./Composer/checkAlifYo'))
 bot.use(require('./Composer/alifYo'))
 bot.use(require('./Composer/checkTajweed'))
 bot.use(require('./Composer/tajweed'))
+bot.use(require('./Composer/quranAnalis'))
+bot.use(require('./Composer/checkAnalis'))
+bot.use(require('./Composer/repeatQuran'))
 bot.startPolling()
 bot.launch().then(() => {
 	console.log(`bot started on @${bot.options.username}`);

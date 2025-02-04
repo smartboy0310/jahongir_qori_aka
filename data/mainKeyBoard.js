@@ -12,7 +12,7 @@ module.exports = {
         ],
         [
             {
-                text: "📜 Qur'on tilovati (Ta'lim uchun)",
+                text: "📜 Qur'on tilovatlari",
             }
         ],
         [
@@ -43,7 +43,7 @@ module.exports = {
         ],
         [
             {
-                text: "📜 Қуръон тиловати (Таълим учун)",
+                text: "📜 Қуръон тиловатлари",
             }
         ],
         [

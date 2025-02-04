@@ -466,7 +466,7 @@ module.exports = {
                 text: "Duo"
             },
             {
-                text: "◀️ Qaytish"
+                text: "📜 Qur'on tilovatlari"
             }
         ]
     ],
@@ -936,7 +936,7 @@ module.exports = {
                 text: "Дуо"
             },
             {
-                text: "◀️ Қайтиш"
+                text: "📜 Қуръон тиловатлари",
             }
         ]
     ]
