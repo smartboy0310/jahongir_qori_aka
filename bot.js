@@ -35,6 +35,9 @@ bot.use(require('./Composer/tajweed'))
 bot.use(require('./Composer/quranAnalis'))
 bot.use(require('./Composer/checkAnalis'))
 bot.use(require('./Composer/repeatQuran'))
+bot.use(require('./Composer/aboutTeachr'))
+bot.use(require('./Composer/mobileApp'))
+bot.use(require('./Composer/checkRepeat'))
 bot.startPolling()
 bot.launch().then(() => {
 	console.log(`bot started on @${bot.options.username}`);
