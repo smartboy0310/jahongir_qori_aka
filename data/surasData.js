@@ -61,7 +61,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/128"
         },
         {
-            text: "13. Raad surasi",
+            text: "13. Ra'd surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/14",
             url_video: "https://t.me/jahongirmuqriy_suralar/129"
         },
@@ -96,7 +96,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/135"
         },
         {
-            text: "20. Toho surasi",
+            text: "20. Toha surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/21",
             url_video: "https://t.me/jahongirmuqriy_suralar/136"
         },
@@ -136,7 +136,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/143"
         },
         {
-            text: "28. Qasas surasi",
+            text: "28. Qosos surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/29",
             url_video: "https://t.me/jahongirmuqriy_suralar/144"
         },
@@ -176,12 +176,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/151"
         },
         {
-            text: "36. Yosin surasi",
+            text: "36. Yaasiyn surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/37",
             url_video: "https://t.me/jahongirmuqriy_suralar/152"
         },
         {
-            text: "37. Soffot surasi",
+            text: "37. Soffaat surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/38",
             url_video: "https://t.me/jahongirmuqriy_suralar/153"
         },
@@ -206,7 +206,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/157"
         },
         {
-            text: "42. Shoʻro surasi",
+            text: "42. Shuuro surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/43",
             url_video: "https://t.me/jahongirmuqriy_suralar/158"
         },
@@ -251,7 +251,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/166"
         },
         {
-            text: "51. Zoriyot surasi",
+            text: "51. Zaariyaat surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/52",
             url_video: "https://t.me/jahongirmuqriy_suralar/167"
         },
@@ -271,12 +271,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/170"
         },
         {
-            text: "55. Ar-Rohmon surasi",
+            text: "55. Ar-Rohman surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/56",
             url_video: "https://t.me/jahongirmuqriy_suralar/171"
         },
         {
-            text: "56. Voqea surasi",
+            text: "56. Voqi'a surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/57",
             url_video: "https://t.me/jahongirmuqriy_suralar/172"
         },
@@ -301,12 +301,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/176"
         },
         {
-            text: "61. Saf surasi",
+            text: "61. Soff surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/62",
             url_video: "https://t.me/jahongirmuqriy_suralar/177"
         },
         {
-            text: "62. Jum'a surasi",
+            text: "62. Jumu'a surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/63",
             url_video: "https://t.me/jahongirmuqriy_suralar/178"
         },
@@ -341,12 +341,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/184"
         },
         {
-            text: "69. Hoqqa surasi",
+            text: "69. Al-Haaqqo surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/70",
             url_video: "https://t.me/jahongirmuqriy_suralar/185"
         },
         {
-            text: "70. Maorij surasi",
+            text: "70. Ma'orij surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/71",
             url_video: "https://t.me/jahongirmuqriy_suralar/186"
         },
@@ -371,7 +371,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/190"
         },
         {
-            text: "75. Qiyomat surasi",
+            text: "75. Qiyaama surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/76",
             url_video: "https://t.me/jahongirmuqriy_suralar/191"
         },
@@ -381,17 +381,17 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/192"
         },
         {
-            text: "77. Mursalot surasi",
+            text: "77. Mursalaat surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/78",
             url_video: "https://t.me/jahongirmuqriy_suralar/193"
         },
         {
-            text: "78. Naba surasi",
+            text: "78. Naba' surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/79",
             url_video: "https://t.me/jahongirmuqriy_suralar/194"
         },
         {
-            text: "79. Noziot surasi",
+            text: "79. Nazi'aat surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/80",
             url_video: "https://t.me/jahongirmuqriy_suralar/195"
         },
@@ -411,7 +411,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/198"
         },
         {
-            text: "83. Mutaffifun surasi",
+            text: "83. Mutoffifun surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/84",
             url_video: "https://t.me/jahongirmuqriy_suralar/199"
         },
@@ -431,7 +431,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/202"
         },
         {
-            text: "87. A'la surasi",
+            text: "87. A'laa surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/88",
             url_video: "https://t.me/jahongirmuqriy_suralar/203"
         },
@@ -496,19 +496,19 @@ module.exports = {
         },
         {
 
-            text: "100. Odiyot surasi",
+            text: "100. Adiyat surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/101",
             url_video: "https://t.me/jahongirmuqriy_suralar/216"
         },
         {
 
-            text: "101. Qoria surasi",
+            text: "101. Qori'a surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/102",
             url_video: "https://t.me/jahongirmuqriy_suralar/217"
         },
         {
 
-            text: "102. Takosur surasi",
+            text: "102. Takaasur surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/103",
             url_video: "https://t.me/jahongirmuqriy_suralar/218"
         },
@@ -533,7 +533,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/222"
         },
         {
-            text: "107. Mo'un surasi",
+            text: "107. Maa'uun surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/108",
             url_video: "https://t.me/jahongirmuqriy_suralar/223"
         },
@@ -543,7 +543,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/224"
         },
         {
-            text: "109. Kafirun surasi",
+            text: "109. Kaafirun surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/110",
             url_video: "https://t.me/jahongirmuqriy_suralar/225"
         },
@@ -569,7 +569,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/229"
         },
         {
-            text: "114. Nos surasi",
+            text: "114. Naas surasi",
             url_audio: "https://t.me/jahongirmuqriy_suralar/115",
             url_video: "https://t.me/jahongirmuqriy_suralar/230"
         },
@@ -640,7 +640,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/128"
         },
         {
-            text: "13. Раад сураси",
+            text: "13. Раъд сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/14",
             url_video: "https://t.me/jahongirmuqriy_suralar/129"
         },
@@ -675,7 +675,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/135"
         },
         {
-            text: "20. Тоҳо сураси",
+            text: "20. Тоҳа сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/21",
             url_video: "https://t.me/jahongirmuqriy_suralar/136"
         },
@@ -715,7 +715,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/143"
         },
         {
-            text: "28. Қасас сураси",
+            text: "28. Қосос сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/29",
             url_video: "https://t.me/jahongirmuqriy_suralar/144"
         },
@@ -755,12 +755,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/151"
         },
         {
-            text: "36. Ёсин сураси",
+            text: "36. Яасийн сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/37",
             url_video: "https://t.me/jahongirmuqriy_suralar/152"
         },
         {
-            text: "37. Соффот сураси",
+            text: "37. Соффаат сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/38",
             url_video: "https://t.me/jahongirmuqriy_suralar/153"
         },
@@ -785,7 +785,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/157"
         },
         {
-            text: "42. Шўро сураси",
+            text: "42. Шууро сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/43",
             url_video: "https://t.me/jahongirmuqriy_suralar/158"
         },
@@ -830,7 +830,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/166"
         },
         {
-            text: "51. Зориёт сураси",
+            text: "51. Заарияат сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/52",
             url_video: "https://t.me/jahongirmuqriy_suralar/167"
         },
@@ -850,12 +850,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/170"
         },
         {
-            text: "55. Ар-Роҳмон сураси",
+            text: "55. Ар-Роҳман сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/56",
             url_video: "https://t.me/jahongirmuqriy_suralar/171"
         },
         {
-            text: "56. Воқеа сураси",
+            text: "56. Воқиъа сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/57",
             url_video: "https://t.me/jahongirmuqriy_suralar/172"
         },
@@ -880,12 +880,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/176"
         },
         {
-            text: "61. Саф сураси",
+            text: "61. Софф сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/62",
             url_video: "https://t.me/jahongirmuqriy_suralar/177"
         },
         {
-            text: "62. Жумъа сураси",
+            text: "62. Жумуъа сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/63",
             url_video: "https://t.me/jahongirmuqriy_suralar/178"
         },
@@ -920,12 +920,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/184"
         },
         {
-            text: "69. Ҳоққа сураси",
+            text: "69. Ал-Ҳааққо сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/70",
             url_video: "https://t.me/jahongirmuqriy_suralar/185"
         },
         {
-            text: "70. Маориж сураси",
+            text: "70. Маъориж сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/71",
             url_video: "https://t.me/jahongirmuqriy_suralar/186"
         },
@@ -950,7 +950,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/190"
         },
         {
-            text: "75. Қиёмат сураси",
+            text: "75. Қияама сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/76",
             url_video: "https://t.me/jahongirmuqriy_suralar/191"
         },
@@ -960,17 +960,17 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/192"
         },
         {
-            text: "77. Мурсалот сураси",
+            text: "77. Мурсалаат сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/78",
             url_video: "https://t.me/jahongirmuqriy_suralar/193"
         },
         {
-            text: "78. Наба сураси",
+            text: "78. Набаъ сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/79",
             url_video: "https://t.me/jahongirmuqriy_suralar/194"
         },
         {
-            text: "79. Нозиот сураси",
+            text: "79. Назиъаат сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/80",
             url_video: "https://t.me/jahongirmuqriy_suralar/195"
         },
@@ -990,7 +990,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/198"
         },
         {
-            text: "83. Мутаффифун сураси",
+            text: "83. Мутоффифун сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/84",
             url_video: "https://t.me/jahongirmuqriy_suralar/199"
         },
@@ -1010,7 +1010,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/202"
         },
         {
-            text: "87. Аъла сураси",
+            text: "87. Аълаа сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/88",
             url_video: "https://t.me/jahongirmuqriy_suralar/203"
         },
@@ -1075,19 +1075,19 @@ module.exports = {
         },
         {
 
-            text: "100. Одиёт сураси",
+            text: "100. Адият сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/101",
             url_video: "https://t.me/jahongirmuqriy_suralar/216"
         },
         {
 
-            text: "101. Қориа сураси",
+            text: "101. Қориъа сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/102",
             url_video: "https://t.me/jahongirmuqriy_suralar/217"
         },
         {
 
-            text: "102. Такосур сураси",
+            text: "102. Такаасур сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/103",
             url_video: "https://t.me/jahongirmuqriy_suralar/218"
         },
@@ -1112,7 +1112,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/222"
         },
         {
-            text: "107. Мўун сураси",
+            text: "107. Мааъуун сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/108",
             url_video: "https://t.me/jahongirmuqriy_suralar/223"
         },
@@ -1122,7 +1122,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/224"
         },
         {
-            text: "109. Кафирун сураси",
+            text: "109. Каафирун сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/110",
             url_video: "https://t.me/jahongirmuqriy_suralar/225"
         },
@@ -1142,13 +1142,13 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/228"
         },
         {
-            id: 113,
+            ид: 113,
             text: "113. Фалақ сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/114",
             url_video: "https://t.me/jahongirmuqriy_suralar/229"
         },
         {
-            text: "114. Нос сураси",
+            text: "114. Наас сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/115",
             url_video: "https://t.me/jahongirmuqriy_suralar/230"
         },

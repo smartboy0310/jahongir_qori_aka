@@ -7,7 +7,7 @@ module.exports = {
                 text: "✅ Fotiha surasi"
             },
             {
-                text: "✅ Nas surasi"
+                text: "✅ Naas surasi"
             }
 
         ],
@@ -30,10 +30,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Kafirun surasi"
+                text: "✅ Kavsar surasi"
             },
             {
-                text: "✅ Kavsar surasi"
+                text: "✅ Kaafirun surasi"
             }
 
         ],[
@@ -49,12 +49,12 @@ module.exports = {
                 text: "✅ Fil surasi"
             },
             {
-                text: "✅ Asr surasi"
+                text: "✅ Humaza surasi"
             }
 
         ],[
             {
-                text: "✅ Humaza surasi "
+                text: "✅ Asr surasi"
             },
             {
                 text: "✅ Takaasur surasi"
@@ -62,10 +62,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Qoria surasi"
+                text: "✅ Qori'a surasi"
             },
             {
-                text: "✅ A'diyat surasi"
+                text: "✅ Adiyat surasi"
             }
 
         ],[
@@ -142,10 +142,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Mutoffifin surasi (1-21)"
+                text: "✅ Mutoffifun surasi (1-21)"
             },
             {
-                text: "✅ Mutoffifin surasi (22-36)"
+                text: "✅ Mutoffifun surasi (22-36)"
             }
 
         ],[
@@ -201,47 +201,47 @@ module.exports = {
                 text: "✅ Mulk surasi (25-30)"
             },
             {
-                text: "✅  Yasin surasi (1-12)"
+                text: "✅ Yaasiyn surasi (1-12)"
             } 
 
         ],[
             {
-                text: "✅ Yasin surasi (13-19)"
+                text: "✅ Yaasiyn surasi (13-19)"
             },
             {
-                text: "✅ Yasin surasi (20-29)"
+                text: "✅ Yaasiyn surasi (20-29)"
             } 
 
         ],[
             {
-                text: "✅ Yasin surasi (30-35)"
+                text: "✅ Yaasiyn surasi (30-35)"
             },
             {
-                text: "✅ Yasin surasi (36-40)"
+                text: "✅ Yaasiyn surasi (36-40)"
             } 
 
         ],[
             {
-                text: "✅ Yasin surasi (41-47)"
+                text: "✅ Yaasiyn surasi (41-47)"
             },
             {
-                text: "✅ Yasin surasi (48-54)"
+                text: "✅ Yaasiyn surasi (48-54)"
             } 
 
         ],[
             {
-                text: "✅ Yasin surasi (55-61)"
+                text: "✅ Yaasiyn surasi (55-61)"
             },
             {
-                text: "✅ Yasin surasi (62-67)"
+                text: "✅ Yaasiyn surasi (62-67)"
             } 
 
         ],[
             {
-                text: "✅ Yasin surasi (68-76)"
+                text: "✅ Yaasiyn surasi (68-76)"
             },
             {
-                text: "✅ Yasin surasi (77-83)"
+                text: "✅ Yaasiyn surasi (77-83)"
             } 
 
         ],[
@@ -275,7 +275,7 @@ module.exports = {
                 text: "✅ Фотиҳа сураси"
             },
             {
-                text: "✅ Нас сураси"
+                text: "✅ Наас сураси"
             }
 
         ],
@@ -298,10 +298,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Кафирун сураси"
+                text: "✅ Кавсар сураси"
             },
             {
-                text: "✅ Кавсар сураси"
+                text: "✅ Каафирун сураси"
             }
 
         ],[
@@ -317,12 +317,12 @@ module.exports = {
                 text: "✅ Фил сураси"
             },
             {
-                text: "✅ Аср сураси"
+                text: "✅ Ҳумаза сураси"
             }
 
         ],[
             {
-                text: "✅ Ҳумаза сураси"
+                text: "✅ Аср сураси"
             },
             {
                 text: "✅ Такаасур сураси"
@@ -330,10 +330,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Қориа сураси"
+                text: "✅ Қориъа сураси"
             },
             {
-                text: "✅ Аъдият сураси"
+                text: "✅ Адият сураси"
             }
 
         ],[
@@ -410,10 +410,10 @@ module.exports = {
 
         ],[
             {
-                text: "✅ Мутоффифин сураси (1-21)"
+                text: "✅ Мутоффифун сураси (1-21)"
             },
             {
-                text: "✅ Мутоффифин сураси (22-36)"
+                text: "✅ Мутоффифун сураси (22-36)"
             }
 
         ],[
@@ -469,47 +469,47 @@ module.exports = {
                 text: "✅ Мулк сураси (25-30)"
             },
             {
-                text: "✅  Ясин сураси (1-12)"
+                text: "✅ Яасийн сураси (1-12)"
             } 
 
         ],[
             {
-                text: "✅ Ясин сураси (13-19)"
+                text: "✅ Яасийн сураси (13-19)"
             },
             {
-                text: "✅ Ясин сураси (20-29)"
+                text: "✅ Яасийн сураси (20-29)"
             } 
 
         ],[
             {
-                text: "✅ Ясин сураси (30-35)"
+                text: "✅ Яасийн сураси (30-35)"
             },
             {
-                text: "✅ Ясин сураси (36-40)"
+                text: "✅ Яасийн сураси (36-40)"
             } 
 
         ],[
             {
-                text: "✅ Ясин сураси (41-47)"
+                text: "✅ Яасийн сураси (41-47)"
             },
             {
-                text: "✅ Ясин сураси (48-54)"
+                text: "✅ Яасийн сураси (48-54)"
             } 
 
         ],[
             {
-                text: "✅ Ясин сураси (55-61)"
+                text: "✅ Яасийн сураси (55-61)"
             },
             {
-                text: "✅ Ясин сураси (62-67)"
+                text: "✅ Яасийн сураси (62-67)"
             } 
 
         ],[
             {
-                text: "✅ Ясин сураси (68-76)"
+                text: "✅ Яасийн сураси (68-76)"
             },
             {
-                text: "✅ Ясин сураси (77-83)"
+                text: "✅ Яасийн сураси (77-83)"
             } 
 
         ],[

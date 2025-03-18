@@ -54,7 +54,7 @@ module.exports = {
 
         ],[
             {
-                text: "13. Raad surasi"
+                text: "13. Ra'd surasi"
             },
             {
                 text: "14. Ibrohim surasi"
@@ -81,7 +81,7 @@ module.exports = {
                 text: "19. Maryam surasi"
             },
             {
-                text: "20. Toho surasi"
+                text: "20. Toha surasi"
             }
 
         ],[
@@ -113,7 +113,7 @@ module.exports = {
                 text: "27. Naml surasi"
             },
             {
-                text: "28. Qasas surasi"
+                text: "28. Qosos surasi"
             }
 
         ],[
@@ -145,12 +145,12 @@ module.exports = {
                 text: "35. Fotir surasi"
             },
             {
-                text: "36. Yosin surasi"
+                text: "36. Yaasiyn surasi"
             }
 
         ],[
             {
-                text: "37. Soffot surasi"
+                text: "37. Soffaat surasi"
             },
             {
                 text: "38. Sod surasi"
@@ -169,7 +169,7 @@ module.exports = {
                 text: "41. Fussilat surasi"
             },
             {
-                text: "42. Sho'ro surasi"
+                text: "42. Shuuro surasi"
             }
 
         ],[
@@ -206,7 +206,7 @@ module.exports = {
 
         ],[
             {
-                text: "51. Zoriyot surasi"
+                text: "51. Zaariyaat surasi"
             },
             {
                 text: "52. Tur surasi"
@@ -222,10 +222,10 @@ module.exports = {
 
         ],[
             {
-                text: "55. Ar-Rohmon surasi"
+                text: "55. Ar-Rohman surasi"
             },
             {
-                text: "56. Voqea surasi"
+                text: "56. Voqi'a surasi"
             } 
 
         ],[
@@ -246,10 +246,10 @@ module.exports = {
 
         ],[
             {
-                text: "61. Saf surasi"
+                text: "61. Soff surasi"
             },
             {
-                text: "62. Jum'a surasi"
+                text: "62. Jumu'a surasi"
             } 
 
         ],[
@@ -278,10 +278,10 @@ module.exports = {
 
         ],[
             {
-                text: "69. Hoqqa surasi"
+                text: "69. Al-Haaqqo surasi"
             },
             {
-                text: "70. Maorij surasi"
+                text: "70. Ma'orij surasi"
             } 
 
         ],[
@@ -302,7 +302,7 @@ module.exports = {
 
         ],[
             {
-                text: "75. Qiyomat surasi"
+                text: "75. Qiyamaa surasi"
             },
             {
                 text: "76. Inson surasi"
@@ -310,15 +310,15 @@ module.exports = {
 
         ],[
             {
-                text: "77. Mursalot surasi"
+                text: "77. Mursalaat surasi"
             },
             {
-                text: "78. Naba surasi"
+                text: "78. Naba' surasi"
             } 
 
         ],[
             {
-                text: "79. Noziot surasi"
+                text: "79. Nazi'aat surasi"
             },
             {
                 text: "80. Abasa surasi"
@@ -334,7 +334,7 @@ module.exports = {
 
         ],[
             {
-                text: "83. Mutaffifun surasi"
+                text: "83. Mutoffifun surasi"
             },
             {
                 text: "84. Inshiqoq surasi"
@@ -350,7 +350,7 @@ module.exports = {
 
         ],[
             {
-                text: "87. A'la surasi"
+                text: "87. A'laa surasi"
             },
             {
                 text: "88. G'oshiya surasi"
@@ -401,15 +401,15 @@ module.exports = {
                 text: "99. Zalzala surasi"
             },
             {
-                text: "100. Odiyot surasi"
+                text: "100. Adiyat surasi"
             } 
 
         ],[
             {
-                text: "101. Qoria surasi"
+                text: "101. Qori'a surasi"
             },
             {
-                text: "102. Takosur surasi"
+                text: "102. Takaasur surasi"
             } 
 
         ],[
@@ -430,7 +430,7 @@ module.exports = {
 
         ],[
             {
-                text: "107. Mo'un surasi"
+                text: "107. Maa'uun surasi"
             },
             {
                 text: "108. Kavsar surasi"
@@ -438,7 +438,7 @@ module.exports = {
 
         ],[
             {
-                text: "109. Kafirun surasi"
+                text: "109. Kaafirun surasi"
             },
             {
                 text: "110. Nasr surasi"
@@ -458,7 +458,7 @@ module.exports = {
                 text: "113. Falaq surasi"
             },
             {
-                text: "114. Nos surasi"
+                text: "114. Naas surasi"
             } 
 
         ],
@@ -523,7 +523,7 @@ module.exports = {
 
         ],[
             {
-                text: "13. Раад сураси"
+                text: "13. Раъд сураси"
             },
             {
                 text: "14. Иброҳим сураси"
@@ -550,7 +550,7 @@ module.exports = {
                 text: "19. Марям сураси"
             },
             {
-                text: "20. Тоҳо сураси"
+                text: "20. Тоҳа сураси"
             }
 
         ],[
@@ -582,7 +582,7 @@ module.exports = {
                 text: "27. Намл сураси"
             },
             {
-                text: "28. Қасас сураси"
+                text: "28. Қосос сураси"
             }
 
         ],[
@@ -614,12 +614,12 @@ module.exports = {
                 text: "35. Фотир сураси"
             },
             {
-                text: "36. Ёсин сураси"
+                text: "36. Яасийн сураси"
             }
 
         ],[
             {
-                text: "37. Соффот сураси"
+                text: "37. Соффаат сураси"
             },
             {
                 text: "38. Сод сураси"
@@ -638,7 +638,7 @@ module.exports = {
                 text: "41. Фуссилат сураси"
             },
             {
-                text: "42. Шўро сураси"
+                text: "42. Шууро сураси"
             }
 
         ],[
@@ -675,7 +675,7 @@ module.exports = {
 
         ],[
             {
-                text: "51. Зориёт сураси"
+                text: "51. Заарияат сураси"
             },
             {
                 text: "52. Тур сураси"
@@ -691,10 +691,10 @@ module.exports = {
 
         ],[
             {
-                text: "55. Ар-Роҳмон сураси"
+                text: "55. Ар-Роҳман сураси"
             },
             {
-                text: "56. Воқеа сураси"
+                text: "56. Воқиъа сураси"
             } 
 
         ],[
@@ -715,10 +715,10 @@ module.exports = {
 
         ],[
             {
-                text: "61. Саф сураси"
+                text: "61. Софф сураси"
             },
             {
-                text: "62. Жумъа сураси"
+                text: "62. Жумуъа сураси"
             } 
 
         ],[
@@ -747,10 +747,10 @@ module.exports = {
 
         ],[
             {
-                text: "69. Ҳоққа сураси"
+                text: "69. Ал-Ҳааққо сураси"
             },
             {
-                text: "70. Маориж сураси"
+                text: "70. Маъориж сураси"
             } 
 
         ],[
@@ -771,7 +771,7 @@ module.exports = {
 
         ],[
             {
-                text: "75. Қиёмат сураси"
+                text: "75. Қиямаа сураси"
             },
             {
                 text: "76. Инсон сураси"
@@ -779,15 +779,15 @@ module.exports = {
 
         ],[
             {
-                text: "77. Мурсалот сураси"
+                text: "77. Мурсалаат сураси"
             },
             {
-                text: "78. Наба сураси"
+                text: "78. Набаъ сураси"
             } 
 
         ],[
             {
-                text: "79. Нозиот сураси"
+                text: "79. Назиъаат сураси"
             },
             {
                 text: "80. Абаса сураси"
@@ -803,7 +803,7 @@ module.exports = {
 
         ],[
             {
-                text: "83. Мутаффифун сураси"
+                text: "83. Мутоффифун сураси"
             },
             {
                 text: "84. Иншиқоқ сураси"
@@ -819,7 +819,7 @@ module.exports = {
 
         ],[
             {
-                text: "87. Аъла сураси"
+                text: "87. Аълаа сураси"
             },
             {
                 text: "88. Ғошия сураси"
@@ -870,15 +870,15 @@ module.exports = {
                 text: "99. Залзала сураси"
             },
             {
-                text: "100. Одиёт сураси"
+                text: "100. Адият сураси"
             } 
 
         ],[
             {
-                text: "101. Қориа сураси"
+                text: "101. Қориъа сураси"
             },
             {
-                text: "102. Такосур сураси"
+                text: "102. Такаасур сураси"
             } 
 
         ],[
@@ -899,7 +899,7 @@ module.exports = {
 
         ],[
             {
-                text: "107. Мўун сураси"
+                text: "107. Мааъуун сураси"
             },
             {
                 text: "108. Кавсар сураси"
@@ -907,7 +907,7 @@ module.exports = {
 
         ],[
             {
-                text: "109. Кафирун сураси"
+                text: "109. Каафирун сураси"
             },
             {
                 text: "110. Наср сураси"
@@ -927,7 +927,7 @@ module.exports = {
                 text: "113. Фалақ сураси"
             },
             {
-                text: "114. Нос сураси"
+                text: "114. Наас сураси"
             } 
 
         ],

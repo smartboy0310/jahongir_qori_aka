@@ -6,8 +6,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/405"
         },
         {
-            text: "🔁 Naba surasi",
+            text: "🔁 Naba' surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/406"
+        },
+        {
+            text: "🔁 Nazi'aat surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/407"
         }
     ],
     oz_repeat: [
@@ -16,8 +20,12 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/405"
         },
         {
-            text: "🔁 Наба сураси",
+            text: "🔁 Набаъ сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/405"
+        },
+        {
+            text: "🔁 Назиъаат сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/407"
         }
     ]
 }

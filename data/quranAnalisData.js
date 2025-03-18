@@ -6,7 +6,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/339"
         },
         {
-            text: "✅ Nas surasi",
+            text: "✅ Naas surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/340"
         },
         {
@@ -26,7 +26,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/344"
         },
         {
-            text: "✅ Kafirun surasi",
+            text: "✅ Kaafirun surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/345"
         },
         {
@@ -58,11 +58,11 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/352"
         },
         {
-            text: "✅ Qoria surasi",
+            text: "✅ Qori'a surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/353"
         },
         {
-            text: "✅ A'diyat surasi",
+            text: "✅ Adiyat surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/354"
         },
         {
@@ -170,11 +170,11 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/380"
         },
         {
-            text: "✅ Naba'a surasi (1-30)",
+            text: "✅ Naba' surasi (1-30)",
             url_video: "https://t.me/jahongirmuqriy_suralar/381"
         },
         {
-            text: "✅ Naba'a surasi (31-40)",
+            text: "✅ Naba' surasi (31-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/382"
         },
         {
@@ -198,47 +198,47 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/387"
         },
         {
-            text: "✅  Yasin surasi (1-12)",
+            text: "✅  Yaasiyn surasi (1-12)",
             url_video: "https://t.me/jahongirmuqriy_suralar/388"
         },
         {
-            text: "✅ Yasin surasi (13-19)",
+            text: "✅ Yaasiyn surasi (13-19)",
             url_video: "https://t.me/jahongirmuqriy_suralar/389"
         },
         {
-            text: "✅ Yasin surasi (20-29)",
+            text: "✅ Yaasiyn surasi (20-29)",
             url_video: "https://t.me/jahongirmuqriy_suralar/390"
         },
         {
-            text: "✅ Yasin surasi (30-35)",
+            text: "✅ Yaasiyn surasi (30-35)",
             url_video: "https://t.me/jahongirmuqriy_suralar/391"
         },
         {
-            text: "✅ Yasin surasi (36-40)",
+            text: "✅ Yaasiyn surasi (36-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/392"
         },
         {
-            text: "✅ Yasin surasi (41-47)",
+            text: "✅ Yaasiyn surasi (41-47)",
             url_video: "https://t.me/jahongirmuqriy_suralar/393"
         },
         {
-            text: "✅ Yasin surasi (48-54)",
+            text: "✅ Yaasiyn surasi (48-54)",
             url_video: "https://t.me/jahongirmuqriy_suralar/394"
         },
         {
-            text: "✅ Yasin surasi (55-61)",
+            text: "✅ Yaasiyn surasi (55-61)",
             url_video: "https://t.me/jahongirmuqriy_suralar/395"
         },
         {
-            text: "✅ Yasin surasi (62-67)",
+            text: "✅ Yaasiyn surasi (62-67)",
             url_video: "https://t.me/jahongirmuqriy_suralar/396"
         },
         {
-            text: "✅ Yasin surasi (68-76)",
+            text: "✅ Yaasiyn surasi (68-76)",
             url_video: "https://t.me/jahongirmuqriy_suralar/397"
         },
         {
-            text: "✅ Yasin surasi (77-83)",
+            text: "✅ Yaasiyn surasi (77-83)",
             url_video: "https://t.me/jahongirmuqriy_suralar/398"
         },
         {
@@ -268,7 +268,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/339"
         },
         {
-            text: "✅ Нас сураси",
+            text: "✅ Наас сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/340"
         },
         {
@@ -288,7 +288,7 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/344"
         },
         {
-            text: "✅ Кафирун сураси",
+            text: "✅ Каафирун сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/345"
         },
         {
@@ -320,11 +320,11 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/352"
         },
         {
-            text: "✅ Қориа сураси",
+            text: "✅ Қориъа сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/353"
         },
         {
-            text: "✅ Аъдият сураси",
+            text: "✅ Адият сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/354"
         },
         {
@@ -432,11 +432,11 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/380"
         },
         {
-            text: "✅ Набаъа сураси (1-30)",
+            text: "✅ Набаъ сураси (1-30)",
             url_video: "https://t.me/jahongirmuqriy_suralar/381"
         },
         {
-            text: "✅ Набаъа сураси (31-40)",
+            text: "✅ Набаъ сураси (31-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/382"
         },
         {
@@ -460,47 +460,47 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/387"
         },
         {
-            text: "✅  Ясин сураси (1-12)",
+            text: "✅  Яасийн сураси (1-12)",
             url_video: "https://t.me/jahongirmuqriy_suralar/388"
         },
         {
-            text: "✅ Ясин сураси (13-19)",
+            text: "✅ Яасийн сураси (13-19)",
             url_video: "https://t.me/jahongirmuqriy_suralar/389"
         },
         {
-            text: "✅ Ясин сураси (20-29)",
+            text: "✅ Яасийн сураси (20-29)",
             url_video: "https://t.me/jahongirmuqriy_suralar/390"
         },
         {
-            text: "✅ Ясин сураси (30-35)",
+            text: "✅ Яасийн сураси (30-35)",
             url_video: "https://t.me/jahongirmuqriy_suralar/391"
         },
         {
-            text: "✅ Ясин сураси (36-40)",
+            text: "✅ Яасийн сураси (36-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/392"
         },
         {
-            text: "✅ Ясин сураси (41-47)",
+            text: "✅ Яасийн сураси (41-47)",
             url_video: "https://t.me/jahongirmuqriy_suralar/393"
         },
         {
-            text: "✅ Ясин сураси (48-54)",
+            text: "✅ Яасийн сураси (48-54)",
             url_video: "https://t.me/jahongirmuqriy_suralar/394"
         },
         {
-            text: "✅ Ясин сураси (55-61)",
+            text: "✅ Яасийн сураси (55-61)",
             url_video: "https://t.me/jahongirmuqriy_suralar/395"
         },
         {
-            text: "✅ Ясин сураси (62-67)",
+            text: "✅ Яасийн сураси (62-67)",
             url_video: "https://t.me/jahongirmuqriy_suralar/396"
         },
         {
-            text: "✅ Ясин сураси (68-76)",
+            text: "✅ Яасийн сураси (68-76)",
             url_video: "https://t.me/jahongirmuqriy_suralar/397"
         },
         {
-            text: "✅ Ясин сураси (77-83)",
+            text: "✅ Яасийн сураси (77-83)",
             url_video: "https://t.me/jahongirmuqriy_suralar/398"
         },
         {

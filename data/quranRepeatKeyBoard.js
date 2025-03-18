@@ -7,10 +7,13 @@ module.exports = {
                 text: "🔁 Fotiha surasi"
             },
             {
-                text: "🔁 Naba surasi"
+                text: "🔁 Naba' surasi"
             }
         ],
         [
+            {
+                text: "🔁 Nazi'aat surasi"
+            },
             {
                 text: "📜 Qur'on tilovatlari"
             }
@@ -26,6 +29,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "🔁 Назиъаат сураси"
+            },
             {
                 text: "📜 Қуръон тиловатлари"
             }
