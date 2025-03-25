@@ -12,6 +12,8 @@ composer.hears('◀️ Qaytish', async (ctx) => {
 			{
 				reply_markup: JSON.stringify({
 					keyboard: mainKeyBoard.uz_keyboard,
+					resize_keyboard: true
+					
 				}),
 			},
 		);
@@ -29,6 +31,7 @@ composer.hears('◀️ Қайтиш', async (ctx) => {
 			{
 				reply_markup: JSON.stringify({
 					keyboard: mainKeyBoard.oz_keyboard,
+					resize_keyboard: true
 				}),
 			},
 		);

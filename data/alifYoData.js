@@ -220,6 +220,11 @@ module.exports = {
             text: "44. Alif va hamza | 1-qism",
             title: "✅ 44-dars: Alif va hamza | 1-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/306"
+        },
+        {
+            text: "45. Alif va hamza | 2-qism",
+            title: "✅ 45-dars: Alif va hamza | 2-qism",
+            url_video: "https://t.me/jahongirmuqriy_suralar/408"
         }
     ],
 
@@ -443,6 +448,11 @@ module.exports = {
             text: "44. Алиф ва ҳамза | 1-қисм",
             title: "✅ 44-дарс: Алиф ва ҳамза | 1-қисм",
             url_video: "https://t.me/jahongirmuqriy_suralar/306"
+        },
+        {
+            text: "45. Алиф ва ҳамза | 2-қисм",
+            title: "✅ 45-дарс: Алиф ва ҳамза | 2-қисм",
+            url_video: "https://t.me/jahongirmuqriy_suralar/408"
         }
     ]
 }

@@ -183,6 +183,9 @@ module.exports = {
         ],
         [
             {
+                text: "45. Alif va hamza | 2-qism"
+            },
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -368,6 +371,9 @@ module.exports = {
 
         ],
         [
+            {
+                text: "45. Алиф ва ҳамза | 2-қисм"
+            },
             {
                 text: "◀️ Қайтиш"
             }
