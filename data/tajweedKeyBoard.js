@@ -73,7 +73,7 @@ module.exports = {
                 text: "🔻16-dars"
             },
             {
-                text: "🔻17-darsi"
+                text: "🔻17-dars"
             }
 
         ], [
@@ -81,7 +81,7 @@ module.exports = {
                 text: "🔻18-dars"
             },
             {
-                text: "🔻19-darsi"
+                text: "🔻19-dars"
             }
 
         ], [
@@ -211,7 +211,7 @@ module.exports = {
                 text: "🔻16-дарс"
             },
             {
-                text: "🔻17-дарси"
+                text: "🔻17-дарс"
             }
 
         ], [
@@ -219,7 +219,7 @@ module.exports = {
                 text: "🔻18-дарс"
             },
             {
-                text: "🔻19-дарси"
+                text: "🔻19-дарс"
             }
 
         ], [
