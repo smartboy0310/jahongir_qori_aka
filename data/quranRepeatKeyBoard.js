@@ -15,6 +15,11 @@ module.exports = {
                 text: "🔁 Nazi'aat surasi"
             },
             {
+                text: "🔁 Abasa surasi"
+            }
+        ],
+        [
+            {
                 text: "📜 Qur'on tilovatlari"
             }
         ]
@@ -32,6 +37,11 @@ module.exports = {
             {
                 text: "🔁 Назиъаат сураси"
             },
+            {
+                text: "🔁 Абаса сураси"
+            }
+        ],
+        [
             {
                 text: "📜 Қуръон тиловатлари"
             }
