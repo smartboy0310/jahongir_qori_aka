@@ -261,7 +261,6 @@ module.exports = {
             text: "✅ Ar-Rohman surasi (62-78)",
             url_video: "https://t.me/jahongirmuqriy_suralar/403"
         },
-        ,
         {
             text: "✅ Voqi'a surasi (1-26)",
             url_video: "https://t.me/jahongirmuqriy_suralar/410"
