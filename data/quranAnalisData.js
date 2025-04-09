@@ -260,6 +260,15 @@ module.exports = {
         {
             text: "✅ Ar-Rohman surasi (62-78)",
             url_video: "https://t.me/jahongirmuqriy_suralar/403"
+        },
+        ,
+        {
+            text: "✅ Voqi'a surasi (1-26)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/410"
+        },
+        {
+            text: "✅ Voqi'a surasi (27-40)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/411"
         }
     ],
     oz_analis: [
@@ -522,6 +531,14 @@ module.exports = {
         {
             text: "✅ Ар-Роҳман сураси (62-78)",
             url_video: "https://t.me/jahongirmuqriy_suralar/403"
+        },
+        {
+            text: "✅ Воқиъа сураси (1-26)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/410"
+        },
+        {
+            text: "✅ Воқиъа сураси (27-40)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/411"
         }
     ]
 }
