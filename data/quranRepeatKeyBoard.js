@@ -20,6 +20,9 @@ module.exports = {
         ],
         [
             {
+                text: "🔁 Takvir surasi"
+            },
+            {
                 text: "📜 Qur'on tilovatlari"
             }
         ]
@@ -42,6 +45,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "🔁 Таквир сураси"
+            },
             {
                 text: "📜 Қуръон тиловатлари"
             }

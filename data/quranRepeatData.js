@@ -16,6 +16,10 @@ module.exports = {
         {
             text: "🔁 Abasa surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/409"
+        },
+        {
+            text: "🔁 Takvir surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/412"
         }
     ],
     oz_repeat: [
@@ -34,6 +38,10 @@ module.exports = {
         {
             text: "🔁 Абаса сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/409"
+        },
+        {
+            text: "🔁 Таквир сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/412"
         }
     ]
 }
