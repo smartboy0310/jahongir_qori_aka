@@ -268,6 +268,10 @@ module.exports = {
         {
             text: "✅ Voqi'a surasi (27-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/411"
+        },
+        {
+            text: "✅ Voqi'a surasi (41-56)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/413"
         }
     ],
     oz_analis: [
@@ -538,6 +542,10 @@ module.exports = {
         {
             text: "✅ Воқиъа сураси (27-40)",
             url_video: "https://t.me/jahongirmuqriy_suralar/411"
+        },
+        {
+            text: "✅ Воқиъа сураси (41-56)",
+            url_video: "https://t.me/jahongirmuqriy_suralar/413"
         }
     ]
 }
