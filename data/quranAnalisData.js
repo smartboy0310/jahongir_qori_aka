@@ -273,7 +273,6 @@ module.exports = {
             text: "✅ Voqi'a surasi (41-56)",
             url_video: "https://t.me/jahongirmuqriy_suralar/413"
         },
-        ,
         {
             text: "✅ Voqi'a surasi (57-67)",
             url_video: "https://t.me/jahongirmuqriy_suralar/414"
