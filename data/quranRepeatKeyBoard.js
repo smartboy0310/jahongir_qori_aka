@@ -23,6 +23,11 @@ module.exports = {
                 text: "🔁 Takvir surasi"
             },
             {
+                text: "🔁 Infitor surasi"
+            }
+        ],
+        [
+            {
                 text: "📜 Qur'on tilovatlari"
             }
         ]
@@ -48,6 +53,11 @@ module.exports = {
             {
                 text: "🔁 Таквир сураси"
             },
+            {
+                text: "🔁 Инфитор сураси"
+            }
+        ],
+        [
             {
                 text: "📜 Қуръон тиловатлари"
             }

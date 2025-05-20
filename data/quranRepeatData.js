@@ -20,6 +20,10 @@ module.exports = {
         {
             text: "🔁 Takvir surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/412"
+        },
+        {
+            text: "🔁 Infitor surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/415"
         }
     ],
     oz_repeat: [
@@ -42,6 +46,10 @@ module.exports = {
         {
             text: "🔁 Таквир сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/412"
+        },
+        {
+            text: "🔁 Инфитор сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/415"
         }
     ]
 }

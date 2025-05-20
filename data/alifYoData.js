@@ -225,7 +225,12 @@ module.exports = {
             text: "45. Alif va hamza | 2-qism",
             title: "✅ 45-dars: Alif va hamza | 2-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/408"
-        }
+        },
+        {
+            text: "46. Ta marbuta",
+            title: "✅ 46-dars: Ta marbuta",
+            url_video: "https://t.me/jahongirmuqriy_suralar/416"
+        }        
     ],
 
     oz_alif_yo: [
@@ -453,6 +458,11 @@ module.exports = {
             text: "45. Алиф ва ҳамза | 2-қисм",
             title: "✅ 45-дарс: Алиф ва ҳамза | 2-қисм",
             url_video: "https://t.me/jahongirmuqriy_suralar/408"
+        },
+        {
+            text: "46. Та марбута",
+            title: "✅ 46-дарс: Та марбута",
+            url_video: "https://t.me/jahongirmuqriy_suralar/416"
         }
     ]
 }
