@@ -24,6 +24,10 @@ module.exports = {
         {
             text: "🔁 Infitor surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/415"
+        },
+        {
+            text: "🔁 Inshiqoq surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/419"
         }
     ],
     oz_repeat: [
@@ -50,6 +54,10 @@ module.exports = {
         {
             text: "🔁 Инфитор сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/415"
+        },
+        {
+            text: "🔁 Иншиқоқ сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/419"
         }
     ]
 }

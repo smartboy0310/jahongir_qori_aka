@@ -28,7 +28,7 @@ module.exports = {
                 text: "✅ Nasr surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Kavsar surasi"
             },
@@ -36,7 +36,7 @@ module.exports = {
                 text: "✅ Kaafirun surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Maa'uun surasi"
             },
@@ -44,7 +44,7 @@ module.exports = {
                 text: "✅ Quraysh surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Fil surasi"
             },
@@ -52,7 +52,7 @@ module.exports = {
                 text: "✅ Humaza surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Asr surasi"
             },
@@ -60,7 +60,7 @@ module.exports = {
                 text: "✅ Takaasur surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Qori'a surasi"
             },
@@ -68,7 +68,7 @@ module.exports = {
                 text: "✅ Adiyat surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Zalzala surasi"
             },
@@ -76,7 +76,7 @@ module.exports = {
                 text: "✅ Bayyina surasi (1-5)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Bayyina surasi (6-8)"
             },
@@ -84,7 +84,7 @@ module.exports = {
                 text: "✅ Qadr surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Alaq surasi"
             },
@@ -92,7 +92,7 @@ module.exports = {
                 text: "✅ Tiyn surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Sharh surasi"
             },
@@ -100,7 +100,7 @@ module.exports = {
                 text: "✅ Zuho surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Layl surasi"
             },
@@ -108,7 +108,7 @@ module.exports = {
                 text: "✅ Shams surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Balad surasi"
             },
@@ -116,7 +116,7 @@ module.exports = {
                 text: "✅ Fajr surasi (1-16)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Fajr surasi (17-40)"
             },
@@ -124,7 +124,7 @@ module.exports = {
                 text: "✅ G'oshiya surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ A'laa surasi"
             },
@@ -132,7 +132,7 @@ module.exports = {
                 text: "✅ Toriq surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Buruj surasi"
             },
@@ -140,7 +140,7 @@ module.exports = {
                 text: "✅ Inshiqoq surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Mutoffifun surasi (1-21)"
             },
@@ -148,7 +148,7 @@ module.exports = {
                 text: "✅ Mutoffifun surasi (22-36)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Infitor surasi"
             },
@@ -156,7 +156,7 @@ module.exports = {
                 text: "✅ Takvir surasi"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Abasa surasi (1-23)"
             },
@@ -164,7 +164,7 @@ module.exports = {
                 text: "✅ Abasa surasi (24-42)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Nazi'aat surasi (1-26)"
             },
@@ -172,93 +172,93 @@ module.exports = {
                 text: "✅ Nazi'aat surasi (27-46)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Naba'a surasi (1-30)"
             },
             {
                 text: "✅ Naba'a surasi (31-40)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Mulk surasi (1-5)"
             },
             {
                 text: "✅ Mulk surasi (6-12)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Mulk surasi (13-18)"
             },
             {
                 text: "✅ Mulk surasi (19-24)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Mulk surasi (25-30)"
             },
             {
                 text: "✅ Yaasiyn surasi (1-12)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Yaasiyn surasi (13-19)"
             },
             {
                 text: "✅ Yaasiyn surasi (20-29)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Yaasiyn surasi (30-35)"
             },
             {
                 text: "✅ Yaasiyn surasi (36-40)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Yaasiyn surasi (41-47)"
             },
             {
                 text: "✅ Yaasiyn surasi (48-54)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Yaasiyn surasi (55-61)"
             },
             {
                 text: "✅ Yaasiyn surasi (62-67)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Yaasiyn surasi (68-76)"
             },
             {
                 text: "✅ Yaasiyn surasi (77-83)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Ar-Rohman surasi (1-16)"
             },
             {
                 text: "✅ Ar-Rohman surasi (17-30)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Ar-Rohman surasi (31-45)"
             },
             {
                 text: "✅ Ar-Rohman surasi (46-61)"
-            } 
+            }
 
         ],
         [
@@ -286,6 +286,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "✅ Voqi'a surasi (81-96)"
+            },
             {
                 text: "📜 Qur'on tilovatlari"
             }
@@ -318,7 +321,7 @@ module.exports = {
                 text: "✅ Наср сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Кавсар сураси"
             },
@@ -326,7 +329,7 @@ module.exports = {
                 text: "✅ Каафирун сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Мааъуун сураси"
             },
@@ -334,7 +337,7 @@ module.exports = {
                 text: "✅ Қурайш сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Фил сураси"
             },
@@ -342,7 +345,7 @@ module.exports = {
                 text: "✅ Ҳумаза сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Аср сураси"
             },
@@ -350,7 +353,7 @@ module.exports = {
                 text: "✅ Такаасур сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Қориъа сураси"
             },
@@ -358,7 +361,7 @@ module.exports = {
                 text: "✅ Адият сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Залзала сураси"
             },
@@ -366,7 +369,7 @@ module.exports = {
                 text: "✅ Баййина сураси (1-5)"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Баййина сураси (6-8)"
             },
@@ -374,7 +377,7 @@ module.exports = {
                 text: "✅ Қадр сураси"
             }
 
-        ],[
+        ], [
             {
                 text: "✅ Алақ сураси"
             },
@@ -479,7 +482,7 @@ module.exports = {
             },
             {
                 text: "✅ Набаъа сураси (31-40)"
-            } 
+            }
 
         ],
         [
@@ -488,7 +491,7 @@ module.exports = {
             },
             {
                 text: "✅ Мулк сураси (6-12)"
-            } 
+            }
 
         ],
         [
@@ -497,7 +500,7 @@ module.exports = {
             },
             {
                 text: "✅ Мулк сураси (19-24)"
-            } 
+            }
 
         ],
         [
@@ -506,7 +509,7 @@ module.exports = {
             },
             {
                 text: "✅ Яасийн сураси (1-12)"
-            } 
+            }
 
         ],
         [
@@ -515,7 +518,7 @@ module.exports = {
             },
             {
                 text: "✅ Яасийн сураси (20-29)"
-            } 
+            }
 
         ],
         [
@@ -524,7 +527,7 @@ module.exports = {
             },
             {
                 text: "✅ Яасийн сураси (36-40)"
-            } 
+            }
 
         ],
         [
@@ -533,7 +536,7 @@ module.exports = {
             },
             {
                 text: "✅ Яасийн сураси (48-54)"
-            } 
+            }
 
         ],
         [
@@ -542,15 +545,15 @@ module.exports = {
             },
             {
                 text: "✅ Яасийн сураси (62-67)"
-            } 
+            }
 
-        ],[
+        ], [
             {
                 text: "✅ Яасийн сураси (68-76)"
             },
             {
                 text: "✅ Яасийн сураси (77-83)"
-            } 
+            }
 
         ],
         [
@@ -559,7 +562,7 @@ module.exports = {
             },
             {
                 text: "✅ Ар-Роҳман сураси (17-30)"
-            } 
+            }
 
         ],
         [
@@ -568,7 +571,7 @@ module.exports = {
             },
             {
                 text: "✅ Ар-Роҳман сураси (46-61)"
-            } 
+            }
 
         ],
         [
@@ -596,6 +599,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "✅ Воқиъа сураси (81-96)"
+            },
             {
                 text: "📜 Қуръон тиловатлари"
             }

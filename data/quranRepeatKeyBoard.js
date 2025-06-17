@@ -28,6 +28,9 @@ module.exports = {
         ],
         [
             {
+                text: "🔁 Inshiqoq surasi"
+            },
+            {
                 text: "📜 Qur'on tilovatlari"
             }
         ]
@@ -58,6 +61,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "🔁 Иншиқоқ сураси"
+            },
             {
                 text: "📜 Қуръон тиловатлари"
             }

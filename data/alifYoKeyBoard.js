@@ -191,6 +191,9 @@ module.exports = {
         ],
         [
             {
+                text: "47. Yozilmasada o'qiladigan harflar"
+            },
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -384,6 +387,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "47. Ёзилмасада ўқиладиган ҳарфлар"
+            },
             {
                 text: "◀️ Қайтиш"
             }

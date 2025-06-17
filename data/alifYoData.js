@@ -230,6 +230,11 @@ module.exports = {
             text: "46. Ta marbuta",
             title: "✅ 46-dars: Ta marbuta",
             url_video: "https://t.me/jahongirmuqriy_suralar/416"
+        },
+        {
+            text: "47. Yozilmasada o'qiladigan harflar",
+            title: "✅ 47-dars: Yozilmasada o'qiladigan harflar",
+            url_video: "https://t.me/jahongirmuqriy_suralar/418"
         }        
     ],
 
@@ -463,7 +468,12 @@ module.exports = {
             text: "46. Та марбута",
             title: "✅ 46-дарс: Та марбута",
             url_video: "https://t.me/jahongirmuqriy_suralar/416"
-        }
+        },
+        {
+            text: "47. Ёзилмасада ўқиладиган ҳарфлар",
+            title: "✅ 47-дарс: Ёзилмасада ўқиладиган ҳарфлар",
+            url_video: "https://t.me/jahongirmuqriy_suralar/418"
+        }  
     ]
 }
 
