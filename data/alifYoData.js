@@ -232,9 +232,19 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/416"
         },
         {
-            text: "47. Yozilmasada o'qiladigan harflar",
-            title: "✅ 47-dars: Yozilmasada o'qiladigan harflar",
+            text: "47. Yozilmasada o'qiladigan harflar | 1-qism",
+            title: "✅ 47-dars: Yozilmasada o'qiladigan harflar | 1-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/418"
+        },
+        {
+            text: "48. Yozilmasada o'qiladigan harflar | 2-qism",
+            title: "✅ 48-dars: Yozilmasada o'qiladigan harflar | 2 -qism",
+            url_video: "https://t.me/jahongirmuqriy_suralar/421"
+        },
+        {
+            text: "49. Yozilsada o'qilmaydigan harflar | 1-qism",
+            title: "✅ 49-dars: Yozilsada o'qilmaydigan harflar | 1-qism",
+            url_video: "https://t.me/jahongirmuqriy_suralar/422"
         }        
     ],
 
@@ -470,9 +480,19 @@ module.exports = {
             url_video: "https://t.me/jahongirmuqriy_suralar/416"
         },
         {
-            text: "47. Ёзилмасада ўқиладиган ҳарфлар",
-            title: "✅ 47-дарс: Ёзилмасада ўқиладиган ҳарфлар",
+            text: "47. Ёзилмасада ўқиладиган ҳарфлар | 1-қисм",
+            title: "✅ 47-дарс: Ёзилмасада ўқиладиган ҳарфлар | 1 -қисм",
             url_video: "https://t.me/jahongirmuqriy_suralar/418"
+        },
+        {
+            text: "48. Ёзилмасада ўқиладиган ҳарфлар | 2 -қисм",
+            title: "✅ 48-дарс: Ёзилмасада ўқиладиган ҳарфлар | 2 -қисм",
+            url_video: "https://t.me/jahongirmuqriy_suralar/421"
+        },
+        {
+            text: "49. Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм",
+            title: "✅ 49-дарс: Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм",
+            url_video: "https://t.me/jahongirmuqriy_suralar/422"
         }  
     ]
 }

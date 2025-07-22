@@ -28,6 +28,14 @@ module.exports = {
         {
             text: "🔁 Inshiqoq surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/419"
+        },
+        {
+            text: "🔁 Buruj surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/423"
+        },
+        {
+            text: "🔁 Toriq surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/424"
         }
     ],
     oz_repeat: [
@@ -58,6 +66,14 @@ module.exports = {
         {
             text: "🔁 Иншиқоқ сураси",
             url_video: "https://t.me/jahongirmuqriy_suralar/419"
+        },
+        {
+            text: "🔁 Буруж сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/423"
+        },
+        {
+            text: "🔁 Ториқ сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/424"
         }
     ]
 }

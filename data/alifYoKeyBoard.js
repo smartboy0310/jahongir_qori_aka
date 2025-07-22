@@ -191,12 +191,21 @@ module.exports = {
         ],
         [
             {
-                text: "47. Yozilmasada o'qiladigan harflar"
+                text: "47. Yozilmasada o'qiladigan harflar | 1-qism"
+            },
+            {
+                text: "48. Yozilmasada o'qiladigan harflar | 2-qism"
+            }
+        ],
+        [
+            {
+                text: "49. Yozilsada o'qilmaydigan harflar | 1-qism"
             },
             {
                 text: "◀️ Qaytish"
             }
         ]
+
     ],
     oz_alif_yo: [
         [
@@ -388,7 +397,15 @@ module.exports = {
         ],
         [
             {
-                text: "47. Ёзилмасада ўқиладиган ҳарфлар"
+                text: "47. Ёзилмасада ўқиладиган ҳарфлар | 1-қисм"
+            },
+            {
+                text: "48. Ёзилмасада ўқиладиган ҳарфлар | 2-қисм"
+            }
+        ],
+        [
+            {
+                text: "49. Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм"
             },
             {
                 text: "◀️ Қайтиш"
