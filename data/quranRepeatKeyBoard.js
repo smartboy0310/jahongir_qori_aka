@@ -33,12 +33,32 @@ module.exports = {
             {
                 text: "🔁 Buruj surasi"
             }
-        ]
-        ,
+        ],
         [
             {
                 text: "🔁 Toriq surasi"
             },
+            {
+                text: "🔁 A'laa surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Fajr surasi"
+            },
+            {
+                text: "🔁 Ixlos surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Falaq surasi"
+            },
+            {
+                text: "🔁 Naas surasi"
+            }
+        ],
+        [
             {
                 text: "📜 Qur'on tilovatlari"
             }
@@ -76,12 +96,32 @@ module.exports = {
             {
                 text: "🔁 Буруж сураси"
             }
-        ]
-        ,
+        ],
         [
             {
                 text: "🔁 Ториқ сураси"
             },
+            {
+                text: "🔁 Аълаа сураси"
+            }
+        ],
+        [
+            {
+                text: "🔁 Фажр сураси"
+            },
+            {
+                text: "🔁 Ихлос сураси"
+            }
+        ],
+        [
+            {
+                text: "🔁 Фалақ сураси"
+            },
+            {
+                text: "🔁 Наас сураси"
+            }
+        ],
+        [
             {
                 text: "📜 Қуръон тиловатлари"
             }

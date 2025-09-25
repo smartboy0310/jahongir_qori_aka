@@ -245,7 +245,17 @@ module.exports = {
             text: "49. Yozilsada o'qilmaydigan harflar | 1-qism",
             title: "✅ 49-dars: Yozilsada o'qilmaydigan harflar | 1-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/422"
-        }        
+        },
+        {
+            text: "50. Yozilsada o'qilmaydigan harflar | 2-qism",
+            title: "✅ 50-dars: Yozilsada o'qilmaydigan harflar | 2-qism",
+            url_video: "https://t.me/jahongirmuqriy_suralar/426"
+        },
+        {
+            text: "51. Yozilsada o'qilmaydigan harflar | 3-qism",
+            title: "✅ 51-dars: Yozilsada o'qilmaydigan harflar | 3-qism",
+            url_video: "https://t.me/jahongirmuqriy_suralar/429"
+        }         
     ],
 
     oz_alif_yo: [
@@ -493,7 +503,17 @@ module.exports = {
             text: "49. Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм",
             title: "✅ 49-дарс: Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм",
             url_video: "https://t.me/jahongirmuqriy_suralar/422"
-        }  
+        },
+        {
+            text: "50. Ёзилсада ўқилмайдиган ҳарфлар | 2-қисм",
+            title: "✅ 50-дарс: Ёзилсада ўқилмайдиган ҳарфлар | 2-қисм",
+            url_video: "https://t.me/jahongirmuqriy_suralar/426"
+        },
+        {
+            text: "51. Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм",
+            title: "✅ 51-дарс: Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм",
+            url_video: "https://t.me/jahongirmuqriy_suralar/429"
+        }   
     ]
 }
 

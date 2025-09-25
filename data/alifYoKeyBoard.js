@@ -202,6 +202,14 @@ module.exports = {
                 text: "49. Yozilsada o'qilmaydigan harflar | 1-qism"
             },
             {
+                text: "50. Yozilsada o'qilmaydigan harflar | 2-qism"
+            }
+        ],
+        [
+            {
+                text: "51. Yozilsada o'qilmaydigan harflar | 3-qism"
+            },
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -406,6 +414,14 @@ module.exports = {
         [
             {
                 text: "49. Ёзилсада ўқилмайдиган ҳарфлар | 1-қисм"
+            },
+            {
+                text: "50. Ёзилсада ўқилмайдиган ҳарфлар | 2-қисм"
+            }
+        ],
+        [
+            {
+                text: "51. Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм"
             },
             {
                 text: "◀️ Қайтиш"
