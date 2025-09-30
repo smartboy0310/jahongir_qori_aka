@@ -210,6 +210,11 @@ module.exports = {
                 text: "51. Yozilsada o'qilmaydigan harflar | 3-qism"
             },
             {
+                text: "52. Vasl - qo'shish"
+            }
+        ],
+        [
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -423,6 +428,11 @@ module.exports = {
             {
                 text: "51. Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм"
             },
+            {
+                text: "52. Васл - қўшиш"
+            }
+        ],
+        [
             {
                 text: "◀️ Қайтиш"
             }

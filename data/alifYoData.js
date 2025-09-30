@@ -255,7 +255,12 @@ module.exports = {
             text: "51. Yozilsada o'qilmaydigan harflar | 3-qism",
             title: "✅ 51-dars: Yozilsada o'qilmaydigan harflar | 3-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/429"
-        }         
+        } ,
+        {
+            text: "52. Vasl - qo'shish",
+            title: "✅ 52-dars: Vasl - qo'shish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/433"
+        }          
     ],
 
     oz_alif_yo: [
@@ -513,7 +518,12 @@ module.exports = {
             text: "51. Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм",
             title: "✅ 51-дарс: Ёзилсада ўқилмайдиган ҳарфлар | 3-қисм",
             url_video: "https://t.me/jahongirmuqriy_suralar/429"
-        }   
+        },
+        {
+            text: "52. Васл - қўшиш",
+            title: "✅ 52-дарс: Васл - қўшиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/433"
+        }    
     ]
 }
 
