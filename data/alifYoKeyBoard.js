@@ -215,6 +215,14 @@ module.exports = {
         ],
         [
             {
+                text: "53. Vaqf - to'xtash"
+            },
+            {
+                text: "54. Mad - cho'zish"
+            }
+        ],
+        [
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -430,6 +438,14 @@ module.exports = {
             },
             {
                 text: "52. Васл - қўшиш"
+            }
+        ],
+        [
+            {
+                text: "53. Вақф - тўхташ"
+            },
+            {
+                text: "54. Мад - чўзиш"
             }
         ],
         [

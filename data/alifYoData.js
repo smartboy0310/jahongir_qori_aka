@@ -255,12 +255,22 @@ module.exports = {
             text: "51. Yozilsada o'qilmaydigan harflar | 3-qism",
             title: "✅ 51-dars: Yozilsada o'qilmaydigan harflar | 3-qism",
             url_video: "https://t.me/jahongirmuqriy_suralar/429"
-        } ,
+        },
         {
             text: "52. Vasl - qo'shish",
             title: "✅ 52-dars: Vasl - qo'shish",
             url_video: "https://t.me/jahongirmuqriy_suralar/433"
-        }          
+        },
+        {
+            text: "53. Vaqf - to'xtash",
+            title: "✅ 53-dars: Vaqf - to'xtash",
+            url_video: "https://t.me/jahongirmuqriy_suralar/434"
+        },
+        {
+            text: "54. Mad - cho'zish",
+            title: "✅ 54-dars: Mad - cho'zish",
+            url_video: "https://t.me/jahongirmuqriy_suralar/435"
+        }
     ],
 
     oz_alif_yo: [
@@ -523,7 +533,17 @@ module.exports = {
             text: "52. Васл - қўшиш",
             title: "✅ 52-дарс: Васл - қўшиш",
             url_video: "https://t.me/jahongirmuqriy_suralar/433"
-        }    
+        },
+        {
+            text: "53. Вақф - тўхташ",
+            title: "✅ 53-дарс: Вақф - тўхташ",
+            url_video: "https://t.me/jahongirmuqriy_suralar/434"
+        },
+        {
+            text: "54. Мад - чўзиш",
+            title: "✅ 54-дарс: Мад - чўзиш",
+            url_video: "https://t.me/jahongirmuqriy_suralar/435"
+        }
     ]
 }
 
