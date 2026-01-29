@@ -223,6 +223,9 @@ module.exports = {
         ],
         [
             {
+                text: "55. Idg'om"
+            },
+            {
                 text: "◀️ Qaytish"
             }
         ]
@@ -449,6 +452,9 @@ module.exports = {
             }
         ],
         [
+            {
+                text: "55. Идғом"
+            },
             {
                 text: "◀️ Қайтиш"
             }

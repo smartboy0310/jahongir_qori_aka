@@ -270,6 +270,11 @@ module.exports = {
             text: "54. Mad - cho'zish",
             title: "✅ 54-dars: Mad - cho'zish",
             url_video: "https://t.me/jahongirmuqriy_suralar/435"
+        },
+        {
+            text: "55. Idg'om",
+            title: "✅ 55-dars: Idg'om",
+            url_video: "https://t.me/jahongirmuqriy_suralar/448"
         }
     ],
 
@@ -543,6 +548,11 @@ module.exports = {
             text: "54. Мад - чўзиш",
             title: "✅ 54-дарс: Мад - чўзиш",
             url_video: "https://t.me/jahongirmuqriy_suralar/435"
+        },
+        {
+            text: "55. Идғом",
+            title: "✅ 55-дарс: Идғом",
+            url_video: "https://t.me/jahongirmuqriy_suralar/448"
         }
     ]
 }
