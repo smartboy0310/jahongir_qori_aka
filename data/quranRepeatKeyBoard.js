@@ -7,7 +7,7 @@ module.exports = {
                 text: "🔁 Fotiha surasi"
             },
             {
-                text: "🔁 Naba' surasi"
+                text: "🔁 Naba surasi"
             }
         ],
         [
@@ -28,18 +28,26 @@ module.exports = {
         ],
         [
             {
-                text: "🔁 Inshiqoq surasi"
+                text: "🔁 Mutoffifun surasi"
             },
             {
-                text: "🔁 Buruj surasi"
+                text: "🔁 Inshiqoq surasi"
             }
         ],
         [
             {
-                text: "🔁 Toriq surasi"
+                text: "🔁 Buruj surasi"
             },
             {
+                text: "🔁 Toriq surasi"
+            }
+        ],
+        [
+            {
                 text: "🔁 A'laa surasi"
+            },
+            {
+                text: "🔁 G'oshiya surasi"
             }
         ],
         [
@@ -47,18 +55,53 @@ module.exports = {
                 text: "🔁 Fajr surasi"
             },
             {
-                text: "🔁 Ixlos surasi"
+                text: "🔁 Balad surasi"
             }
         ],
         [
             {
-                text: "🔁 Falaq surasi"
+                text: "🔁 Layl surasi"
             },
             {
-                text: "🔁 Naas surasi"
+                text: "🔁 Zuho surasi"
             }
         ],
         [
+            {
+                text: "🔁 Shahr surasi"
+            },
+            {
+                text: "🔁 Tiyn surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Kavsar surasi"
+            },
+            {
+                text: "🔁 Kaafirun surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Nasr surasi"
+            },
+            {
+                text: "🔁 Masad surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Ixlos surasi"
+            },
+            {
+                text: "🔁 Falaq surasi"
+            }
+        ],
+        [
+            {
+                text: "🔁 Naas surasi"
+            },
             {
                 text: "📜 Qur'on tilovatlari"
             }
@@ -136,7 +179,7 @@ module.exports = {
             {
                 text: "🔁 Тийн сураси"
             }
-        ],        
+        ],
         [
             {
                 text: "🔁 Кавсар сураси"
@@ -144,7 +187,7 @@ module.exports = {
             {
                 text: "🔁 Каафирун сураси"
             }
-        ],        
+        ],
         [
             {
                 text: "🔁 Наср сураси"
