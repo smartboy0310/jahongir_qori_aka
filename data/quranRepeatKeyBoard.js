@@ -7,7 +7,7 @@ module.exports = {
                 text: "🔁 Fotiha surasi"
             },
             {
-                text: "🔁 Naba surasi"
+                text: "🔁 Naba' surasi"
             }
         ],
         [
@@ -121,7 +121,7 @@ module.exports = {
                 text: "🔁 Фотиҳа сураси"
             },
             {
-                text: "🔁 Наба сураси"
+                text: "🔁 Набаъ сураси"
             }
         ],
         [
