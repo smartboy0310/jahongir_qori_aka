@@ -76,6 +76,14 @@ module.exports = {
         ],
         [
             {
+                text: "🔁 Alaq surasi"
+            },
+            {
+                text: "🔁 Maa'uun surasi"
+            }
+        ],
+        [
+            {
                 text: "🔁 Kavsar surasi"
             },
             {

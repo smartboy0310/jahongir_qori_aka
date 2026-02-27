@@ -79,6 +79,14 @@ module.exports = {
             url_audio: "https://t.me/jahongirmuqriy_suralar/443"
         },
         {
+            text: "🔁 Alaq surasi",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/449"
+        },
+        {
+            text: "🔁 Maa'uun surasi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/450"
+        },
+        {
             text: "🔁 Kavsar surasi",
             url_video: "https://t.me/jahongirmuqriy_suralar/447"
         },
@@ -184,6 +192,14 @@ module.exports = {
         {
             text: "🔁 Тийн сураси",
             url_audio: "https://t.me/jahongirmuqriy_suralar/443"
+        },
+        {
+            text: "🔁 Алақ сураси",
+            url_audio: "https://t.me/jahongirmuqriy_suralar/449"
+        },
+        {
+            text: "🔁 Мааъуун сураси",
+            url_video: "https://t.me/jahongirmuqriy_suralar/450"
         },
         {
             text: "🔁 Кавсар сураси",
