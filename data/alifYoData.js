@@ -275,6 +275,11 @@ module.exports = {
             text: "55. Idg'om",
             title: "✅ 55-dars: Idg'om",
             url_video: "https://t.me/jahongirmuqriy_suralar/448"
+        },
+        {
+            text: "56. Iqlob",
+            title: "✅ 56-dars: Iqlob",
+            url_video: "https://t.me/jahongirmuqriy_suralar/451"
         }
     ],
 
@@ -553,6 +558,11 @@ module.exports = {
             text: "55. Идғом",
             title: "✅ 55-дарс: Идғом",
             url_video: "https://t.me/jahongirmuqriy_suralar/448"
+        },
+        {
+            text: "56. Иқлоб",
+            title: "✅ 56-дарс: Иқлоб",
+            url_video: "https://t.me/jahongirmuqriy_suralar/451"
         }
     ]
 }
