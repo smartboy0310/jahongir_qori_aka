@@ -280,6 +280,16 @@ module.exports = {
             text: "56. Iqlob",
             title: "✅ 56-dars: Iqlob",
             url_video: "https://t.me/jahongirmuqriy_suralar/451"
+        },
+        {
+            text: "57. Alloh lafzining o'qilishi",
+            title: "✅ 57-dars: Alloh lafzining o'qilishi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/453"
+        },
+        {
+            text: "58. Alloh lafzining o'qilishi",
+            title: "✅ 58-dars: Sura boshidagi harflarning o'qilishi",
+            url_video: "https://t.me/jahongirmuqriy_suralar/454"
         }
     ],
 
@@ -563,6 +573,16 @@ module.exports = {
             text: "56. Иқлоб",
             title: "✅ 56-дарс: Иқлоб",
             url_video: "https://t.me/jahongirmuqriy_suralar/451"
+        },
+        {
+            text: "57. Аллоҳ лафзининг ўқилиши",
+            title: "✅ 57-дарс: Аллоҳ лафзининг ўқилиши",
+            url_video: "https://t.me/jahongirmuqriy_suralar/453"
+        },
+        {
+            text: "58. Аллоҳ лафзининг ўқилиши",
+            title: "✅ 58-дарс: Сура бошидаги ҳарфларнинг ўқилиши",
+            url_video: "https://t.me/jahongirmuqriy_suralar/454"
         }
     ]
 }

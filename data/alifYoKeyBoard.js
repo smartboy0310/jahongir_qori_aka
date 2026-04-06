@@ -226,7 +226,17 @@ module.exports = {
                 text: "55. Idg'om"
             },
             {
-                text: "56 Iqlob"
+                text: "56. Iqlob"
+            }
+        ],
+        [
+            {
+                text: "57. Alloh lafzining o'qilishi"
+            }
+        ],
+        [
+            {
+                text: "58. Sura boshidagi harflarning o'qilishi"
             }
         ],
         [
@@ -461,7 +471,17 @@ module.exports = {
                 text: "55. Идғом"
             },
             {
-                text: "56 Иқлоб"
+                text: "56. Иқлоб"
+            }
+        ],
+        [
+            {
+                text: "57. Аллоҳ лафзининг ўқилиши"
+            }
+        ],
+        [
+            {
+                text: "58. Сура бошидаги ҳарфларнинг ўқилиши"
             }
         ],
         [

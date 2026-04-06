@@ -79,44 +79,47 @@ module.exports = {
                 text: "🔁 Alaq surasi"
             },
             {
-                text: "🔁 Quraysh surasi"
+                text: "🔁 Qadr surasi"
             }
         ],
         [
+            {
+                text: "🔁 Quraysh surasi"
+            },
             {
                 text: "🔁 Maa'uun surasi"
-            },
+            }
+        ],
+        [
             {
                 text: "🔁 Kavsar surasi"
-            }
-        ],
-        [
+            },
             {
                 text: "🔁 Kaafirun surasi"
-            },
+            }
+        ],
+        [
             {
                 text: "🔁 Nasr surasi"
-            }
-        ],
-        [
+            },
             {
                 text: "🔁 Masad surasi"
-            },
+            }
+        ],
+        [
             {
                 text: "🔁 Ixlos surasi"
-            }
-        ],
-        [
-            {
-                text: "🔁 Falaq surasi"
             },
             {
-                text: "🔁 Naas surasi"
+                text: "🔁 Falaq surasi"
             }
         ],
         [
             {
-                text: "📜 Qur’on tilovatlari"
+                text: "🔁 Naas surasi"
+            },
+            {
+                text: "📜 Qur'on tilovatlari"
             }
         ]
     ],
@@ -200,7 +203,6 @@ module.exports = {
             {
                 text: "🔁 Қадр сураси"
             }
-
         ],
         [
             {
